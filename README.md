@@ -15,7 +15,7 @@ A Retrieval-Augmented Generation (RAG) chatbot using LangChain for document proc
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Anshad-Aziz/SLRI-Solutions.git>
    cd rag_chatbot
 2.Install dependencies & Run the app:
   ```bash
