@@ -14,3 +14,7 @@ A Retrieval-Augmented Generation (RAG) chatbot using LangChain for document proc
    ```bash
    git clone <repository_url>
    cd rag_chatbot
+2.Install dependencies & Run the app:
+  ```bash
+   pip install -r requirements.txt
+   streamlit run app.py
